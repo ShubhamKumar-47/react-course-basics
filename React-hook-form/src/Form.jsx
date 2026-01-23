@@ -199,8 +199,8 @@ function Form() {
          <button type="button" onClick={() => trigger("name")}>Validate</button>
          <br />
          <button type="button" onClick={() => reset({
-            name: "Yahubaba",
-            email: "yahubaba@gmail.com"
+            name: "shubham",
+            email: "shubham@gmail.com"
          })}>Reset</button>
       </form>
       <DevTool control={control} placement="top-left" />
